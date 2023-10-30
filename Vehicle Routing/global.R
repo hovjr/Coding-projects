@@ -1,0 +1,27 @@
+library(shiny)
+library(shinyjs)
+library(leaflet)
+library(shinythemes)
+library(shinyWidgets)
+library(shinydashboard)
+library(readxl)
+library(vistime)
+library(plotly)
+library(shinyTime)
+library(shinycssloaders)
+library(stringr)
+library(dplyr)
+library(shinyalert)
+
+Sys.setenv(TZ='GMT')
+Sys.setlocale("LC_TIME", "C")
+
+library(reticulate)
+current_path = rstudioapi::getActiveDocumentContext()$path 
+setwd(dirname(current_path ))
+# print( getwd() )
+use_virtualenv(paste0(getwd(), "/routing_env"))
+
+source_python(paste0(getwd(), "/scripts/landmarks_static2.py"))
+source_python(paste0(getwd(), "/scripts/cvrp.py"))
+restaurant_icon <- makeIcon("restaurant_icon.png", iconWidth = 35, iconHeight = 35)
