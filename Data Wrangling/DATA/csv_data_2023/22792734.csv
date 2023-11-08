@@ -1,0 +1,55 @@
+Date,Time,Direction,Type,Occupancy,Brand,Age Identifier
+25-10-2023,8.30am,out,bus,1%,Other,66
+25-10-2023,8.30am,out,car,1,Skoda,08
+25-10-2023,8.30am,out,bus,2%,Other,66
+25-10-2023,8.35am,out,other,1,Other,69
+25-10-2023,8.35am,out,car,1,Audi,17
+25-10-2023,8.35am,out,bus,1%,Other,11
+25-10-2023,8.35am,out,car,2,Ford,05
+25-10-2023,8.35am,out,bus,1%,Other,17
+25-10-2023,8.35am,out,car,1,Mercedes,03
+25-10-2023,8.35am,out,car,1,Vauxhall,64
+25-10-2023,8.35am,out,bus,1%,Other,66
+25-10-2023,8.35am,out,car,1,Other,20
+25-10-2023,8.35am,out,car,1,Ford,20
+25-10-2023,8.35am,out,bus,1%,Other,66
+25-10-2023,8.35am,out,bus,1%,Other,66
+25-10-2023,8.35am,out,car,1,Other,07
+25-10-2023,8.35am,out,car,1,Vauxhall,63
+25-10-2023,8.35am,out,van,1,Other,18
+25-10-2023,8.35am,out,car,1,Vauxhall,16
+25-10-2023,8.35am,out,car,1,Japanese brand,60
+25-10-2023,8.35am,out,other,1,Other,19
+25-10-2023,8.40am,out,other,1,Other,72
+25-10-2023,8.40am,out,car,2,Ford,69
+25-10-2023,8.40am,out,bus,1%,Other,66
+25-10-2023,8.40am,out,car,1,Ford,64
+25-10-2023,8.40am,out,car,1,Japanese brand,62
+25-10-2023,8.45am,out,car,2,Citroen,59
+25-10-2023,8.45am,out,van,1,Mercedes,17
+25-10-2023,8.45am,out,car,1,BMW,19
+25-10-2023,8.45am,out,bus,1%,Other,66
+25-10-2023,8.50am,out,bus,1%,Other,66
+25-10-2023,8.50am,out,bus,1%,Other,66
+25-10-2023,8.50am,out,car,1,Japanese brand,20
+25-10-2023,8.50am,out,car,1,Ford,69
+25-10-2023,8.55am,out,car,1,Japanese brand,70
+25-10-2023,8.55am,out,car,2,Japanese brand,70
+25-10-2023,8.55am,out,van,1,Mercedes,16
+25-10-2023,8.55am,out,car,1,Japanese brand,06
+25-10-2023,8.55am,out,car,1,Ford,60
+25-10-2023,8.55am,out,car,1,Volksvaken,22
+25-10-2023,8.55am,out,car,2,Japanese brand,14
+25-10-2023,8.55am,out,bus,1%,Other,67
+25-10-2023,8.55am,out,van,1,Volksvaken,18
+25-10-2023,8.55am,out,car,1,Skoda,69
+25-10-2023,8.55am,out,bus,1%,Other,66
+25-10-2023,8.55am,out,car,1,Audi,22
+25-10-2023,8.55am,out,car,1,Volksvaken,70
+25-10-2023,8.55am,out,car,1,Audi,07
+25-10-2023,9.00am,out,car,1,Skoda,61
+25-10-2023,9.00am,out,other,2,Other,21
+25-10-2023,9.00am,out,car,1,Ford,69
+25-10-2023,9.00am,out,car,1,Audi,65
+25-10-2023,9.00am,out,car,1,Other,16
+25-10-2023,9.00am,out,bus,2%,Other,66

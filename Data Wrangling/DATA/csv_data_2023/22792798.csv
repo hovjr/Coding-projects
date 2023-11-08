@@ -1,0 +1,51 @@
+Date,Time,Direction,Type,Occupancy,Brand,Age Group
+25-10-2023,10:15am,out,van,1,vauxhall,30 - 45
+25-10-2023,10:15am,out,taxi,1,ford,30 - 45
+25-10-2023,10:20am,out,car,1,volkswagen,30 - 45
+25-10-2023,10:20am,out,taxi,1,hyundai,30 - 45
+25-10-2023,10:20am,out,van,1,,30 - 45
+25-10-2023,10:20am,out,car,1,volkswagen,under 30
+25-10-2023,10:20am,out,taxi,1,vauxhall,30 - 45
+25-10-2023,10:20am,out,car,2,hyundai,above 45
+25-10-2023,10:20am,out,van,1,renault,30 - 45
+25-10-2023,10:20am,out,car,1,kia,under 30
+25-10-2023,10:25am,out,bus,10%,,30 - 45
+25-10-2023,10:25am,out,van,1,mercedes,30 - 45
+25-10-2023,10:25am,out,van,1,ford,30 - 45
+25-10-2023,10:25am,out,moterbike,1,,under 30
+25-10-2023,10:25am,out,bicycle,1,,under 30
+25-10-2023,10:30am,out,car,1,vauxhall,under 30
+25-10-2023,10:30am,out,bus,20%,,30 - 45
+25-10-2023,10:30am,out,bus,10%,,above 45
+25-10-2023,10:30am,out,bus,10%,,30 - 45
+25-10-2023,10:30am,out,car,2,volkswagen,under 30
+25-10-2023,10:30am,out,car,1,audi,under 30
+25-10-2023,10:30am,out,car,2,mercedes,above 45
+25-10-2023,10:30am,out,bus,1%,,30 - 45
+25-10-2023,10:30am,out,car,1,mazda,under 30
+25-10-2023,10:30am,out,bus,1%,,30 - 45
+25-10-2023,10:30am,out,bicycle,1,,under 30
+25-10-2023,10:30am,out,car,1,skoda,under 30
+25-10-2023,10:35am,out,car,1,mini cooper,30 - 45
+25-10-2023,10:35am,out,car,1,toyota,30 - 45
+25-10-2023,10:35am,out,car,1,mini cooper,under 30
+25-10-2023,10:35am,out,bus,2%,,30 - 45
+25-10-2023,10:35am,out,bus,5%,,above 45
+25-10-2023,10:35am,out,scooter,1,,under 30
+25-10-2023,10:35am,out,car,1,toyota,30 - 45
+25-10-2023,10:40am,out,van,1,ford,above 45
+25-10-2023,10:40am,out,van,1,ford,30 - 45
+25-10-2023,10:40am,out,taxi,1,hyundai,30 - 45
+25-10-2023,10:40am,out,car,1,ford,above 45
+25-10-2023,10:40am,out,car,2,nissan,30 - 45
+25-10-2023,10:45am,out,car,1,mini cooper,30 - 45
+25-10-2023,10:45am,out,car,1,nissan,above 45
+25-10-2023,10:45am,out,bus,1%,,30 - 45
+25-10-2023,10:45am,out,bus,1%,,30 - 45
+25-10-2023,10:45am,out,van,1,ford,30 - 45
+25-10-2023,10:45am,out,van,1,ford,30 - 45
+25-10-2023,10:45am,out,van,1,citroen,above 45
+25-10-2023,10:45am,out,van,2,ford,under 30
+25-10-2023,10:45am,out,van,1,volkswagen,30 - 45
+25-10-2023,10:45am,out,car,2,ford,above 45
+25-10-2023,10:45am,out,bus,10%,,above 45

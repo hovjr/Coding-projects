@@ -1,0 +1,160 @@
+Date,Time,Direction,Type,Occupancy,Fuel Type,AdditionalData2
+25-10-2023,9.35am,in,car,2,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,lorry,1,Conventional,null
+25-10-2023,9.35am,in,bus,2%,Clean Technology,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,bus,5%,Clean Technology,null
+25-10-2023,9.35am,in,car,2,Conventional,null
+25-10-2023,9.35am,in,car,1,Clean Technology,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,bicycle,1,NA,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,2,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,van,1,Conventional,null
+25-10-2023,9.35am,in,bus,90%,Clean Technology,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Clean Technology,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,2,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.35am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,bicycle,1,NA,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Clean Technology,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,taxi,1,Conventional,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,van,1,Clean Technology,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,bus,80%,Clean Technology,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Clean Technology,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,van,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,van,2,Conventional,null
+25-10-2023,9.40am,in,car,3,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.40am,in,car,2,Conventional,null
+25-10-2023,9.40am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.45am,in,van,1,Clean Technology,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Clean Technology,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,bus,10%,Clean Technology,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.45am,in,car,1,Conventional,null
+25-10-2023,9.45am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,bus,40%,Clean Technology,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,1,Clean Technology,null
+25-10-2023,9.50am,in,bus,95%,Clean Technology,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,taxi,2,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,2,Clean Technology,null
+25-10-2023,9.50am,in,car,3,Conventional,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,2,Conventional,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.50am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,bus,80%,Conventional,null
+25-10-2023,9.55am,in,van,1,Clean Technology,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,taxi,1,Conventional,null
+25-10-2023,9.55am,in,bicycle,1,NA,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,2,Clean Technology,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,bicycle,1,NA,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,4,Conventional,null
+25-10-2023,9.55am,in,van,1,Clean Technology,null
+25-10-2023,9.55am,in,bus,100%,Clean Technology,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,3,Conventional,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,9.55am,in,car,1,Clean Technology,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,1,Conventional,null
+25-10-2023,9.55am,in,car,2,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,bus,95%,Clean Technology,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,2,Conventional,null
+25-10-2023,10.00am,in,bus,80%,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Clean Technology,null
+25-10-2023,10.00am,in,bus,100%,Clean Technology,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,bus,10%,Clean Technology,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,lorry,3,Conventional,null
+25-10-2023,10.00am,in,car,2,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Clean Technology,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null
+25-10-2023,10.00am,in,car,1,Conventional,null

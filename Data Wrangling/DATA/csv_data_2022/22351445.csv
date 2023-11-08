@@ -1,0 +1,68 @@
+Date,Time,Direction,Type,Occupancy,Passenger Type,Frequency
+25-10-2022,9:01am,Out,Car,1,Student,1
+25-10-2022,9:01am,Out,Bus,Empty,Student,1
+25-10-2022,9:01am,Out,Van,1,Adult,1
+25-10-2022,9:01am,Out,Car,1,Adult,2
+25-10-2022,9:01am,Out,Bus,Half-Full,Student,2
+25-10-2022,9:01am,Out,Van,1,Adult,2
+25-10-2022,9:01am,Out,Car,1,Adult,3
+25-10-2022,9:01am,Out,Van,2,Adult,3
+25-10-2022,9:01am,Out,Car,1,Adult,4
+25-10-2022,9:01am,Out,Car,1,Adult,5
+25-10-2022,9:01am,Out,Car,1,Student,6
+25-10-2022,9:01am,Out,Car,1,Adult,7
+25-10-2022,9:01am,Out,Car,1,Adult,8
+25-10-2022,9:01am,Out,Car,1,Adult,9
+25-10-2022,9:06am,Out,Taxi,1,Adult,1
+25-10-2022,9:06am,Out,Bus,Empty, ,3
+25-10-2022,9:06am,Out,Van,2,Adult,4
+25-10-2022,9:06am,Out,Lorry,1,Adult,1
+25-10-2022,9:06am,Out,Taxi,1,Adult,2
+25-10-2022,9:06am,Out,Taxi,1,Adult,3
+25-10-2022,9:06am,Out,Car,2,Adult,10
+25-10-2022,9:06am,Out,Taxi,1,Adult,4
+25-10-2022,9:06am,Out,Car,1,Student,11
+25-10-2022,9:06am,Out,Car,1,Adult,12
+25-10-2022,9:06am,Out,Car,1,Adult,13
+25-10-2022,9:06am,Out,Motorbike,1,Adult,1
+25-10-2022,9:06am,Out,Taxi,1,Adult,5
+25-10-2022,9:06am,Out,Car,1,Student,14
+25-10-2022,9:11am,Out,Car,1,Adult,15
+25-10-2022,9:11am,Out,Bus,Half-Full,Student,4
+25-10-2022,9:11am,Out,Motorbike,1,Adult,2
+25-10-2022,9:11am,Out,Van,1,Adult,5
+25-10-2022,9:11am,Out,Car,2,Student,16
+25-10-2022,9:11am,Out,Bus,Empty,Student,5
+25-10-2022,9:11am,Out,Van,1,Adult,6
+25-10-2022,9:11am,Out,Car,1,Adult,17
+25-10-2022,9:11am,Out,Bus,Empty, ,6
+25-10-2022,9:11am,Out,Car,1,Student,18
+25-10-2022,9:11am,Out,Bus,Empty, ,7
+25-10-2022,9:11am,Out,Car,2,Adult,19
+25-10-2022,9:11am,Out,Bus,Empty,Student,8
+25-10-2022,9:11am,Out,Car,1,Adult,20
+25-10-2022,9:11am,Out,Car,1,Student,21
+25-10-2022,9:16am,Out,Car,1,Adult,22
+25-10-2022,9:16am,Out,Bus,Empty,Student,9
+25-10-2022,9:16am,Out,Van,1,Adult,7
+25-10-2022,9:16am,Out,Car,1,Adult,23
+25-10-2022,9:16am,Out,Bus,Empty,Student,10
+25-10-2022,9:16am,Out,Van,1,Adult,8
+25-10-2022,9:16am,Out,Car,1,Adult,24
+25-10-2022,9:21am,Out,Car,1,Student,25
+25-10-2022,9:21am,Out,Bus,Empty, ,11
+25-10-2022,9:21am,Out,Taxi,1,Adult,6
+25-10-2022,9:21am,Out,Bus,Empty,Student,12
+25-10-2022,9:21am,Out,Car,1,Student,26
+25-10-2022,9:21am,Out,Bus,Empty, ,13
+25-10-2022,9:21am,Out,Car,1,Adult,27
+25-10-2022,9:21am,Out,Car,1,Adult,28
+25-10-2022,9:26am,Out,Car,1,Adult,29
+25-10-2022,9:26am,Out,Bus,Empty, ,14
+25-10-2022,9:26am,Out,Car,1,Adult,30
+25-10-2022,9:26am,Out,Bus,Empty,Student,15
+25-10-2022,9:26am,Out,Car,1,Adult,31
+25-10-2022,9:26am,Out,Taxi,1,Adult,7
+25-10-2022,9:26am,Out,Car,1,Adult,32
+25-10-2022,9:26am,Out,Taxi,1,Adult,8
+25-10-2022,9:26am,Out,Car,1,Adult,33

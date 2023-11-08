@@ -1,0 +1,101 @@
+Date,Time,Direction,Vehicle Type,Occupancy,Vehicle Brand,Transport Type (Public/Private)
+ 26-10-2022,10:15am,In,Bus,30%,First Bus,Public
+ 26-10-2022,10:15am,In,Car,2,BMW,Private
+ 26-10-2022,10:15am,In,Car,1,Volkswagen Polo,Private
+ 26-10-2022,10:15am,In,Car,2,Peugeot,Private
+ 26-10-2022,10:15am,In,Car,1,Ford,Private
+ 26-10-2022,10:15am,In,Van,2,Ford Transit,Public
+ 26-10-2022,10:15am,In,Car,2,KIA,Private
+ 26-10-2022,10:20am,In,Car,3,Peugeot,Private
+ 26-10-2022,10:20am,In,Car,1,Swift,Private
+ 26-10-2022,10:20am,In,Taxi,2,Opel Corsa,Private
+ 26-10-2022,10:20am,In,Van,2,Peugeot Export,Private
+ 26-10-2022,10:20am,In,Bus,30%,First Bus,Public
+ 26-10-2022,10:20am,In,Bus,20%,First Bus,Public
+ 26-10-2022,10:20am,In,Bus,10%,First Bus,Public
+ 26-10-2022,10:20am,In,Car,2,Sandero,Private
+ 26-10-2022,10:25am,In,Car,1,Mini Cooper,Private
+ 26-10-2022,10:25am,In,Car,4,Accord,Private
+ 26-10-2022,10:25am,In,Taxi,2,Peugeot,Private
+ 26-10-2022,10:25am,In,Car,2,Volkswagen,Private
+ 26-10-2022,10:25am,In,Taxi,2,Volkswagen,Private
+ 26-10-2022,10:25am,In,Car,1,Volkswagen Polo,Private
+ 26-10-2022,10:25am,In,Van,1,Ford,Public
+ 26-10-2022,10:25am,In,Car,1,Hyundai,Private
+ 26-10-2022,10:25am,In,Car,2,Volkswagen Polo,Private
+ 26-10-2022,10:25am,In,Car,3,BMW,Private
+ 26-10-2022,10:25am,In,Bus,10%,First Bus,Public
+ 26-10-2022,10:25am,In,Bus,20%,First Bus,Public
+ 26-10-2022,10:25am,In,Car,1,Citroen,Private
+ 26-10-2022,10:25am,In,Car,2,Fiat,Private
+ 26-10-2022,10:25am,In,Car,4,Opel Corsa,Private
+ 26-10-2022,10:25am,In,Car,2,Volkswagen Polo,Private
+ 26-10-2022,10:25am,In,Car,1,Renault Zoe,Private
+ 26-10-2022,10:25am,In,Car,4,Volkswagen Golf,Private
+ 26-10-2022,10:25am,In,Car,1,Tiguan,Private
+ 26-10-2022,10:25am,In,Car,4,Opel Corsa,Private
+ 26-10-2022,10:25am,In,Car,2,Peugeot,Private
+ 26-10-2022,10:25am,In,Car,2,Volvo,Private
+ 26-10-2022,10:25am,In,Car,1,Skoda,Private
+ 26-10-2022,10:25am,In,Car,2,Citroen,Private
+ 26-10-2022,10:25am,In,Car,1,Mini Cooper,Private
+ 26-10-2022,10:30am,In,Car,2,Volkswagen Polo,Private
+ 26-10-2022,10:30am,In,Van,2,Ford,Private
+ 26-10-2022,10:30am,In,Taxi,2,Toyota,Private
+ 26-10-2022,10:30am,In,Car,1,Volkswagen Polo,Private
+ 26-10-2022,10:30am,In,Car,2,Audi,Private
+ 26-10-2022,10:30am,In,Van,2,Renault Traffic,Private
+ 26-10-2022,10:30am,In,Car,2,Nissan,Private
+ 26-10-2022,10:30am,In,Car,2,Audi A6,Private
+ 26-10-2022,10:30am,In,Car,1,Volvo XC 40,Private
+ 26-10-2022,10:30am,In,Car,3,Toyota,Private
+ 26-10-2022,10:30am,In,Taxi,3,Volkswagen,Private
+ 26-10-2022,10:30am,In,Car,2,Toyota RA4,Private
+ 26-10-2022,10:30am,In,Car,2,Volkswagen Golf,Private
+ 26-10-2022,10:30am,In,Car,1,Ford,Private
+ 26-10-2022,10:30am,In,Electric Bike,1,VOI,Public
+ 26-10-2022,10:30am,In,Bus,100%,First Bus,Public
+ 26-10-2022,10:30am,In,Car,2,Toyota,Private
+ 26-10-2022,10:30am,In,Car,1,Benz,Private
+ 26-10-2022,10:30am,In,Car,1,CRV,Private
+ 26-10-2022,10:30am,In,Car,1,Citroen,Private
+ 26-10-2022,10:35am,In,Car,1,Ford,Private
+ 26-10-2022,10:35am,In,Bus,20%,First Bus,Public
+ 26-10-2022,10:35am,In,Motor Bike,1,Triumph,Private
+ 26-10-2022,10:35am,In,Van,2,Citroen,Private
+ 26-10-2022,10:35am,In,Bicycle,1,Cube,Private
+ 26-10-2022,10:35am,In,Car,2,BMW,Private
+ 26-10-2022,10:35am,In,Car,1,Tesla,Private
+ 26-10-2022,10:35am,In,Bus,20%,First Bus,Public
+ 26-10-2022,10:35am,In,Car,2,Opel Corsa,Private
+ 26-10-2022,10:35am,In,Car,1,Peugeot,Private
+ 26-10-2022,10:35am,In,Van,2,Ford Transit,Public
+ 26-10-2022,10:35am,In,Truck,2,Toyota,Private
+ 26-10-2022,10:35am,In,Electric Bike,1,VOI,Private
+ 26-10-2022,10:40am,In,Lorry,2,Scania,Private
+ 26-10-2022,10:40am,In,Car,4,Peugeot,Private
+ 26-10-2022,10:40am,In,Car,2,Audi Q5,Private
+ 26-10-2022,10:40am,In,Car,2,Porsche,Private
+ 26-10-2022,10:40am,In,Car,2,Mercedes A180D,Private
+ 26-10-2022,10:40am,In,Bus,50%,First Bus,Public
+ 26-10-2022,10:40am,In,Van,2,DHL,Private
+ 26-10-2022,10:40am,In,Bus,30%,First Bus,Public
+ 26-10-2022,10:40am,In,Taxi,2,Toyota,Private
+ 26-10-2022,10:40am,In,Lorry,2,Kelberg,Private
+ 26-10-2022,10:40am,In,Car,2,BMW,Private
+ 26-10-2022,10:45am,In,Bicycle,1,GANT,Private
+ 26-10-2022,10:45am,In,Van,2,Mercedes,Private
+ 26-10-2022,10:45am,In,Car,2,Ford,Private
+ 26-10-2022,10:45am,In,Car,4,Nissan,Private
+ 26-10-2022,10:45am,In,Bus,100%,First Bus,Public
+ 26-10-2022,10:45am,In,Car,2,Volkswagen Golf,Private
+ 26-10-2022,10:45am,In,Car,2,Citroen,Private
+ 26-10-2022,10:45am,In,Car,1,Citroen,Private
+ 26-10-2022,10:45am,In,Car,2,KIA,Private
+ 26-10-2022,10:45am,In,Bicycle,1,GANT,Private
+ 26-10-2022,10:45am,In,Car,2,CRV,Private
+ 26-10-2022,10:45am,In,Car,2,Volkswagen Golf,Private
+ 26-10-2022,10:45am,In,Car,2,KIA,Private
+ 26-10-2022,10:45am,In,Car,3,KIA,Private
+ 26-10-2022,10:45am,In,Car,2,Fiat,Private
+ 26-10-2022,10:45am,In,Car,4,Audi Q2,Private

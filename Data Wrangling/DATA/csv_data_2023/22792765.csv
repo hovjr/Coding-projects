@@ -1,0 +1,164 @@
+﻿Date,Time,Direction,Type,Occupancy,EV,Car Brand
+24-10-2023,9.40am,in,car,1,non ev,Ford
+24-10-2023,9.40am,in,car,1,non ev,Volkswagen
+24-10-2023,9.40am,in,bicycle,1,,
+24-10-2023,9.40am,in,bicycle,1,,
+24-10-2023,9.40am,in,car,1,non ev,Mini
+24-10-2023,9.40am,in,car,1,non ev,Vauxhall
+24-10-2023,9.40am,in,car,2,non ev,Volkswagen
+24-10-2023,9.40am,in,car,1,non ev,Seat
+24-10-2023,9.40am,in,car,1,non ev,Renault
+24-10-2023,9.40am,in,car,1,non ev,Vauxhall
+24-10-2023,9.45am,in,car,1,non ev,Peugeot
+24-10-2023,9.45am,in,car,1,non ev,Volkswagen
+24-10-2023,9.45am,in,car,2,non ev,Vauxhall
+24-10-2023,9.45am,in,car,1,non ev,Skoda
+24-10-2023,9.45am,in,car,1,non ev,Volkswagen
+24-10-2023,9.45am,in,car,1,non ev,Mini
+24-10-2023,9.45am,in,car,1,non ev,Mini
+24-10-2023,9.45am,in,car,1,non ev,Subaru
+24-10-2023,9.45am,in,car,2,non ev,Benz
+24-10-2023,9.45am,in,car,1,non ev,Aston matin
+24-10-2023,9.45am,in,car,1,non ev,Benz
+24-10-2023,9.45am,in,car,2,non ev,Kia
+24-10-2023,9.45am,in,car,3,non ev,Skoda
+24-10-2023,9.45am,in,car,3,non ev,Suzuki
+24-10-2023,9.45am,in,car,4,non ev,Nissan
+24-10-2023,9.45am,in,car,4,non ev,MG
+24-10-2023,9.45am,in,bus,100%,,
+24-10-2023,9.45am,in,car,2,non ev,Nissan
+24-10-2023,9.50am,in,car,2,non ev,Citroen
+24-10-2023,9.50am,in,car,2,non ev,Benz
+24-10-2023,9.50am,in,car,4,non ev,Hyundai
+24-10-2023,9.50am,in,car,1,non ev,Kia
+24-10-2023,9.50am,in,car,1,non ev,Nissan
+24-10-2023,9.50am,in,car,2,non ev,Fiat
+24-10-2023,9.50am,in,car,1,non ev,Renault
+24-10-2023,9.50am,in,car,2,non ev,Ford
+24-10-2023,9.50am,in,car,1,non ev,Benz
+24-10-2023,9.50am,in,car,1,non ev,BMW
+24-10-2023,9.50am,in,car,1,non ev,Volkswagen
+24-10-2023,9.50am,in,car,3,non ev,Vauxhall
+24-10-2023,9.50am,in,bicycle,1,,
+24-10-2023,9.50am,in,car,3,non ev,Volkswagen
+24-10-2023,9.50am,in,bus,100%,,
+24-10-2023,9.50am,in,car,2,non ev,Peugeot
+24-10-2023,9.50am,in,van,2,,
+24-10-2023,9.50am,in,car,1,non ev,Audi
+24-10-2023,9.50am,in,car,1,non ev,Volkswagen
+24-10-2023,9.50am,in,car,1,non ev,Skoda
+24-10-2023,9.50am,in,car,2,non ev,Kia
+24-10-2023,9.50am,in,car,1,non ev,Nissan
+24-10-2023,9.55am,in,bicycle,1,,
+24-10-2023,9.55am,in,car,1,non ev,Citroen
+24-10-2023,9.55am,in,car,1,non ev,Mini
+24-10-2023,9.55am,in,car,2,non ev,Volkswagen
+24-10-2023,9.55am,in,car,2,non ev,Ford
+24-10-2023,9.55am,in,van,1,,
+24-10-2023,9.55am,in,car,1,non ev,Skoda
+24-10-2023,9.55am,in,car,1,non ev,Peugeot
+24-10-2023,9.55am,in,bus,100%,,
+24-10-2023,9.55am,in,car,3,non ev,Benz
+24-10-2023,9.55am,in,car,1,non ev,Mini
+24-10-2023,9.55am,in,car,2,non ev,Ford
+24-10-2023,9.55am,in,car,1,non ev,Volkswagen
+24-10-2023,9.55am,in,car,1,non ev,Volkswagen
+24-10-2023,9.55am,in,car,3,non ev,Jeep
+24-10-2023,9.55am,in,car,1,non ev,Volkswagen
+24-10-2023,9.55am,in,car,1,non ev,BMW
+24-10-2023,9.55am,in,car,2,non ev,Fiat
+24-10-2023,9.55am,in,car,1,non ev,Peugeot
+24-10-2023,9.55am,in,bus,100%,,
+24-10-2023,9.55am,in,taxi,1,,
+24-10-2023,9.55am,in,car,1,non ev,Volkswagen
+24-10-2023,9.55am,in,car,1,non ev,Mini
+24-10-2023,9.55am,in,car,2,non ev,Mini
+24-10-2023,9.55am,in,car,1,non ev,Toyota
+24-10-2023,9.55am,in,car,1,non ev,Dacia
+24-10-2023,9.55am,in,car,3,non ev,Skoda
+24-10-2023,9.55am,in,car,2,non ev,Volkswagen
+24-10-2023,9.55am,in,taxi,1,,
+24-10-2023,9.55am,in,car,1,non ev,Citroen
+24-10-2023,10.00am,in,bicycle,1,,
+24-10-2023,10.00am,in,bicycle,1,,
+24-10-2023,10.00am,in,car,1,non ev,Toyota
+24-10-2023,10.00am,in,car,2,non ev,Mazda
+24-10-2023,10.00am,in,car,4,non ev,Volkswagen
+24-10-2023,10.00am,in,car,2,non ev,Suzuki
+24-10-2023,10.00am,in,car,1,non ev,Volkswagen
+24-10-2023,10.00am,in,car,1,non ev,Skoda
+24-10-2023,10.00am,in,car,1,non ev,Volkswagen
+24-10-2023,10.00am,in,car,1,non ev,Toyota
+24-10-2023,10.00am,in,car,1,non ev,Peugeot
+24-10-2023,10.00am,in,car,1,non ev,Hyundai
+24-10-2023,10.00am,in,car,1,ev,MG
+24-10-2023,10.00am,in,car,2,non ev,Ford
+24-10-2023,10.00am,in,car,2,non ev,Volkswagen
+24-10-2023,10.00am,in,car,1,non ev,Fiat
+24-10-2023,10.00am,in,car,2,non ev,Skoda
+24-10-2023,10.00am,in,car,1,non ev,Mini
+24-10-2023,10.00am,in,car,1,non ev,Volkswagen
+24-10-2023,10.00am,in,car,1,non ev,Benz
+24-10-2023,10.00am,in,car,2,non ev,Mazda
+24-10-2023,10.00am,in,car,1,non ev,Skoda
+24-10-2023,10.00am,in,bicycle,1,,
+24-10-2023,10.05am,in,bus,80%,,
+24-10-2023,10.05am,in,car,1,non ev,BMW
+24-10-2023,10.05am,in,car,1,non ev,Peugeot
+24-10-2023,10.05am,in,car,1,non ev,Skoda
+24-10-2023,10.05am,in,car,2,non ev,Vauxhall
+24-10-2023,10.05am,in,car,1,non ev,Seat
+24-10-2023,10.05am,in,car,3,non ev,Ford
+24-10-2023,10.05am,in,car,2,non ev,Audi
+24-10-2023,10.05am,in,bus,100%,,
+24-10-2023,10.05am,in,car,1,non ev,Benz
+24-10-2023,10.05am,in,bicycle,1,,
+24-10-2023,10.05am,in,bicycle,1,,
+24-10-2023,10.05am,in,motorbike,1,,
+24-10-2023,10.05am,in,bus,100%,,
+24-10-2023,10.05am,in,car,2,non ev,Volkswagen
+24-10-2023,10.05am,in,car,1,non ev,Seat
+24-10-2023,10.05am,in,car,1,non ev,Peugeot
+24-10-2023,10.05am,in,car,1,non ev,Volkswagen
+24-10-2023,10.05am,in,car,1,non ev,BMW
+24-10-2023,10.05am,in,car,1,non ev,Skoda
+24-10-2023,10.05am,in,car,2,non ev,Toyota
+24-10-2023,10.05am,in,car,1,non ev,Volkswagen
+24-10-2023,10.05am,in,car,1,non ev,Vauxhall
+24-10-2023,10.05am,in,car,1,non ev,Vauxhall
+24-10-2023,10.05am,in,car,1,non ev,Ford
+24-10-2023,10.05am,in,car,3,non ev,Benz
+24-10-2023,10.05am,in,car,1,non ev,Ford
+24-10-2023,10.05am,in,car,1,non ev,Ford
+24-10-2023,10.05am,in,car,1,non ev,Mini
+24-10-2023,10.05am,in,car,1,non ev,Vauxhall
+24-10-2023,10.05am,in,car,2,non ev,BMW
+24-10-2023,10.05am,in,car,1,non ev,Volkswagen
+24-10-2023,10.05am,in,car,2,non ev,Skoda
+24-10-2023,10.05am,in,car,2,non ev,Volkswagen
+24-10-2023,10.05am,in,car,2,non ev,Mini
+24-10-2023,10.05am,in,car,2,non ev,Seat
+24-10-2023,10.05am,in,car,2,non ev,Citroen
+24-10-2023,10.05am,in,car,1,non ev,BMW
+24-10-2023,10.05am,in,bicycle,1,,
+24-10-2023,10.05am,in,bus,100%,,
+24-10-2023,10.05am,in,car,1,non ev,Peugeot
+24-10-2023,10.05am,in,car,1,non ev,Kia
+24-10-2023,10.05am,in,car,1,non ev,Toyota
+24-10-2023,10.10am,in,car,2,non ev,Honda
+24-10-2023,10.10am,in,car,1,non ev,Volkswagen
+24-10-2023,10.10am,in,car,2,non ev,Ford
+24-10-2023,10.10am,in,car,2,non ev,Ford
+24-10-2023,10.10am,in,car,2,non ev,Volkswagen
+24-10-2023,10.10am,in,car,1,non ev,Honda
+24-10-2023,10.10am,in,car,1,non ev,Suzuki
+24-10-2023,10.10am,in,car,1,non ev,Volvo
+24-10-2023,10.10am,in,van,1,,
+24-10-2023,10.10am,in,bicycle,1,,
+24-10-2023,10.10am,in,car,1,non ev,Ford
+24-10-2023,10.10am,in,car,1,non ev,Benz
+24-10-2023,10.10am,in,car,1,non ev,Honda
+24-10-2023,10.10am,in,car,1,non ev,Vauxhall
+24-10-2023,10.10am,in,car,1,non ev,Toyota
+24-10-2023,10.10am,in,car,1,non ev,Fiesta
+24-10-2023,10.10am,in,bus,100%,,

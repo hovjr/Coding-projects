@@ -1,0 +1,48 @@
+Date,Time,Direction,Type of Vehicle,Occupancy,Vehicle Category,Colour
+24/10/2023,10:30 AM,out,car,2,personal,black
+24/10/2023,10:30 AM,out,car,3,personal,white
+24/10/2023,10:30 AM,out,car,1,personal,grey
+24/10/2023,10:32 AM,out,double decker bus,0%,paid,blue
+24/10/2023,10:33 AM,out,car,1,personal,black
+24/10/2023,10:33 AM,out,single decker bus,0%,paid,white
+24/10/2023,10:34 AM,out,car,1,personal,white
+24/10/2023,10:34 AM,out,car,1,personal,white
+24/10/2023,10:34 AM,out,car,1,personal,blue
+24/10/2023,10:34 AM,out,bicycle,1,personal,black
+24/10/2023,10:34 AM,out,car,1,personal,black
+24/10/2023,10:35 AM,out,double decker bus,10%,paid,green
+24/10/2023,10:35 AM,out,double decker bus,5%,paid,blue
+24/10/2023,10:36 AM,out,car,1,personal,red
+24/10/2023,10:36 AM,out,car,1,personal,black
+24/10/2023,10:36 AM,out,car,2,personal,black
+24/10/2023,10:36 AM,out,car,1,personal,black
+24/10/2023,10:36 AM,out,car,2,personal,black
+24/10/2023,10:38 AM,out,car,1,personal,black
+24/10/2023,10:38 AM,out,car,1,personal,white
+24/10/2023,10:39 AM,out,mini truck,1,commercial,black
+24/10/2023,10:39 AM,out,taxi,1,paid,black
+24/10/2023,10:41 AM,out,double decker bus,5%,paid,blue
+24/10/2023,10:42 AM,out,double decker bus,10%,paid,blue
+24/10/2023,10:42 AM,out,car,1,personal,blue
+24/10/2023,10:42 AM,out,car,1,personal,red
+24/10/2023,10:45 AM,out,car,2,personal,grey
+24/10/2023,10:46 AM,out,car,1,personal,black
+24/10/2023,10:48 AM,out,car,2,personal,black
+24/10/2023,10:48 AM,out,taxi,1,paid,black
+24/10/2023,10:49 AM,out,car,1,personal,grey
+24/10/2023,10:51 AM,out,taxi,1,paid,black
+24/10/2023,10:51 AM,out,taxi,1,paid,white
+24/10/2023,10:52 AM,out,car,2,personal,black
+24/10/2023,10:52 AM,out,double decker bus,0%,paid,blue
+24/10/2023,10:55 AM,out,double decker bus,0%,paid,white
+24/10/2023,10:55 AM,out,double decker bus,20%,paid,blue
+24/10/2023,10:55 AM,out,car,1,personal,grey
+24/10/2023,10:56 AM,out,van,1,paid,black
+24/10/2023,10:56 AM,out,car,2,personal,white
+24/10/2023,10:57 AM,out,car,1,personal,white
+24/10/2023,10:57 AM,out,car,1,personal,white
+24/10/2023,10:57 AM,out,taxi,1,paid,white
+24/10/2023,10:58 AM,out,car,3,personal,red
+24/10/2023,10:59 AM,out,car,1,personal,black
+24/10/2023,11:00 AM,out,van,2,commercial,white
+24/10/2023,11:00 AM,out,car,1,personal,red

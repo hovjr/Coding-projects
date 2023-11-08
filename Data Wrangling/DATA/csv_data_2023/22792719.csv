@@ -1,0 +1,58 @@
+﻿Date,Time,Direction,Type,Occupancy,EV,Car Brand
+24-10-2023,9.40am,out,bus,5%,,
+24-10-2023,9.40am,out,car,1,non ev,Lexus
+24-10-2023,9.40am,out,car,1,non ev,Volkswagen
+24-10-2023,9.45am,out,car,1,non ev,Kia
+24-10-2023,9.45am,out,motorbike,1,,
+24-10-2023,9.45am,out,car,1,non ev,Kia
+24-10-2023,9.45am,out,car,1,non ev,Renault
+24-10-2023,9.45am,out,taxi,1,,
+24-10-2023,9.45am,out,car,1,ev,Tesla
+24-10-2023,9.50am,out,van,1,,
+24-10-2023,9.50am,out,car,1,non ev,Ford
+24-10-2023,9.50am,out,car,2,non ev,Volkswagen
+24-10-2023,9.50am,out,bus,5%,,
+24-10-2023,9.50am,out,car,1,non ev,Hyundai
+24-10-2023,9.50am,out,bus,0%,,
+24-10-2023,9.50am,out,car,1,non ev,Audi
+24-10-2023,9.50am,out,car,1,non ev,Benz
+24-10-2023,9.50am,out,car,1,non ev,Benz
+24-10-2023,9.50am,out,car,3,non ev,Nissan
+24-10-2023,9.50am,out,car,4,non ev,Suzuki
+24-10-2023,9.50am,out,car,2,non ev,Ford
+24-10-2023,9.50am,out,bus,0%,,
+24-10-2023,9.55am,out,bus,5%,,
+24-10-2023,9.55am,out,car,1,non ev,Renault
+24-10-2023,9.55am,out,car,2,non ev,Kia
+24-10-2023,9.55am,out,car,1,non ev,Toyota
+24-10-2023,9.55am,out,car,1,non ev,Fiat
+24-10-2023,9.55am,out,car,1,non ev,Skoda
+24-10-2023,9.55am,out,car,1,non ev,Toyota
+24-10-2023,9.55am,out,car,1,non ev,Volkswagen
+24-10-2023,9.55am,out,van,1,,
+24-10-2023,9.55am,out,car,2,ev,BMW
+24-10-2023,10.00am,out,car,2,non ev,Ford
+24-10-2023,10.00am,out,car,1,non ev,Volkswagen
+24-10-2023,10.00am,out,car,2,non ev,Jeep
+24-10-2023,10.00am,out,car,2,non ev,Nissan
+24-10-2023,10.00am,out,car,1,non ev,Seat
+24-10-2023,10.00am,out,car,1,non ev,Honda
+24-10-2023,10.00am,out,car,1,non ev,Ford
+24-10-2023,10.00am,out,car,2,non ev,Mazda
+24-10-2023,10.00am,out,bus,5%,,
+24-10-2023,10.05am,out,car,3,non ev,BMW
+24-10-2023,10.05am,out,bus,0%,,
+24-10-2023,10.05am,out,car,2,non ev,Honda
+24-10-2023,10.05am,out,bus,0%,,
+24-10-2023,10.05am,out,car,1,non ev,Toyota
+24-10-2023,10.05am,out,car,1,non ev,Toyota
+24-10-2023,10.05am,out,car,1,non ev,Volkswagen
+24-10-2023,10.05am,out,car,1,non ev,Ford
+24-10-2023,10.05am,out,car,1,non ev,Volkswagen
+24-10-2023,10.05am,out,bus,5%,,
+24-10-2023,10.10am,out,car,1,non ev,Peugeot
+24-10-2023,10.10am,out,car,1,non ev,Audi
+24-10-2023,10.10am,out,car,1,non ev,Volkswagen
+24-10-2023,10.10am,out,car,1,non ev,Vauxhall
+24-10-2023,10.10am,out,car,4,non ev,Hyundai
+24-10-2023,10.10am,out,car,2,non ev,Peugeot

@@ -1,0 +1,46 @@
+Date,Time,Direction,Type,Occupancy,Fuel Type,AdditionalData2
+25-10-2023,9.35am,out,bus,10%,Clean Technology,null
+25-10-2023,9.35am,out,lorry,2,Conventional,null
+25-10-2023,9.35am,out,car,1,Conventional,null
+25-10-2023,9.35am,out,bus,20%,Clean Technology,null
+25-10-2023,9.35am,out,car,1,Conventional,null
+25-10-2023,9.40am,out,car,2,Clean Technology,null
+25-10-2023,9.40am,out,bus,30%,Clean Technology,null
+25-10-2023,9.40am,out,van,1,Conventional,null
+25-10-2023,9.40am,out,bus,5%,Clean Technology,null
+25-10-2023,9.40am,out,bus,10%,Clean Technology,null
+25-10-2023,9.40am,out,lorry,2,Conventional,null
+25-10-2023,9.40am,out,van,1,Conventional,null
+25-10-2023,9.40am,out,car,1,Conventional,null
+25-10-2023,9.40am,out,car,1,Conventional,null
+25-10-2023,9.40am,out,scooter,1,Conventional,null
+25-10-2023,9.45am,out,car,2,Conventional,null
+25-10-2023,9.45am,out,bus,1%,Clean Technology,null
+25-10-2023,9.45am,out,bicycle,1,NA,null
+25-10-2023,9.45am,out,bicycle,1,NA,null
+25-10-2023,9.45am,out,car,1,Conventional,null
+25-10-2023,9.50am,out,car,2,Conventional,null
+25-10-2023,9.50am,out,bus,40%,Clean Technology,null
+25-10-2023,9.50am,out,bus,10%,Conventional,null
+25-10-2023,9.50am,out,car,2,Conventional,null
+25-10-2023,9.50am,out,lorry,2,Conventional,null
+25-10-2023,9.50am,out,car,1,Conventional,null
+25-10-2023,9.50am,out,car,2,Conventional,null
+25-10-2023,9.50am,out,car,3,Conventional,null
+25-10-2023,9.50am,out,van,1,Clean Technology,null
+25-10-2023,9.50am,out,taxi,3,Conventional,null
+25-10-2023,9.50am,out,lorry,1,Conventional,null
+25-10-2023,9.55am,out,van,4,Conventional,null
+25-10-2023,9.55am,out,car,1,Conventional,null
+25-10-2023,9.55am,out,car,2,Conventional,null
+25-10-2023,9.55am,out,car,1,Conventional,null
+25-10-2023,9.55am,out,car,1,Clean Technology,null
+25-10-2023,9.55am,out,car,1,Conventional,null
+25-10-2023,9.55am,out,bus,1%,Clean Technology,null
+25-10-2023,9.55am,out,bus,1%,Clean Technology,null
+25-10-2023,9.55am,out,van,1,Conventional,null
+25-10-2023,9.55am,out,bicycle,1,NA,null
+25-10-2023,9.55am,out,car,2,Conventional,null
+25-10-2023,9.55am,out,lorry,2,Conventional,null
+25-10-2023,10.00am,out,bus,1%,Clean Technology,null
+25-10-2023,10.00am,out,car,1,Conventional,null

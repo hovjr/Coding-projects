@@ -1,0 +1,222 @@
+DATE,TIME,DIRECTION,VEHICLE TYPE,VEHICLE OCCUPANCY,WEATHER
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,bicycle,1,Cloudy
+25-10-2023,10:30,IN,car,3,Cloudy
+25-10-2023,10:30,IN,car,1,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,van,1,Cloudy
+25-10-2023,10:30,IN,van,1,Cloudy
+25-10-2023,10:30,IN,car,3,Cloudy
+25-10-2023,10:30,IN,car,4,Cloudy
+25-10-2023,10:30,IN,bicycle ,1,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,bus,90%,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,bus,90%,Cloudy
+25-10-2023,10:30,IN,car,1,Cloudy
+25-10-2023,10:30,IN,bicycle,1,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,van,1,Cloudy
+25-10-2023,10:30,IN,car,1,Cloudy
+25-10-2023,10:30,IN,car,1,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,IN,car,2,Cloudy
+25-10-2023,10:30,OUT,car,1,Cloudy
+25-10-2023,10:30,OUT,car,1,Cloudy
+25-10-2023,10:30,OUT,bus,1%,Cloudy
+25-10-2023,10:30,OUT,taxi,2,Cloudy
+25-10-2023,10:30,OUT,taxi,2,Cloudy
+25-10-2023,10:30,OUT,car,1,Cloudy
+25-10-2023,10:30,OUT,car,4,Cloudy
+25-10-2023,10:30,OUT,bus,30%,Cloudy
+25-10-2023,10:30,OUT,car,2,Cloudy
+25-10-2023,10:30,OUT,car,1,Cloudy
+25-10-2023,10:30,OUT,car,2,Cloudy
+25-10-2023,10:35,IN,car,2,Cloudy
+25-10-2023,10:35,IN,car,3,Cloudy
+25-10-2023,10:35,IN,bus,100%,Cloudy
+25-10-2023,10:35,IN,taxi,1,Cloudy
+25-10-2023,10:35,IN,scooter,1,Cloudy
+25-10-2023,10:35,IN,bicycle,1,Cloudy
+25-10-2023,10:35,IN,bicycle,1,Cloudy
+25-10-2023,10:35,IN,car,4,Cloudy
+25-10-2023,10:35,IN,car,1,Cloudy
+25-10-2023,10:35,IN,car,2,Cloudy
+25-10-2023,10:35,IN,car,1,Cloudy
+25-10-2023,10:35,IN,car,1,Cloudy
+25-10-2023,10:35,IN,car,2,Cloudy
+25-10-2023,10:35,IN,car,2,Cloudy
+25-10-2023,10:35,OUT,car,2,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,bicycle,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,bus,5%,Cloudy
+25-10-2023,10:35,OUT,bus,5%,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,taxi,1,Cloudy
+25-10-2023,10:35,OUT,car,2,Cloudy
+25-10-2023,10:35,OUT,van,2,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,taxi,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,4,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,bicycle,1,Cloudy
+25-10-2023,10:35,OUT,bicycle,1,Cloudy
+25-10-2023,10:35,OUT,car,1,Cloudy
+25-10-2023,10:35,OUT,car,2,Cloudy
+25-10-2023,10:40,IN,taxi,1,Cloudy
+25-10-2023,10:40,IN,van,2,Cloudy
+25-10-2023,10:40,IN,car,1,Cloudy
+25-10-2023,10:40,IN,taxi,1,Cloudy
+25-10-2023,10:40,IN,car,2,Cloudy
+25-10-2023,10:40,IN,car,2,Cloudy
+25-10-2023,10:40,IN,car,2,Cloudy
+25-10-2023,10:40,IN,car,4,Cloudy
+25-10-2023,10:40,IN,car,1,Cloudy
+25-10-2023,10:40,IN,car,2,Cloudy
+25-10-2023,10:40,IN,car,4,Cloudy
+25-10-2023,10:40,IN,taxi,2,Cloudy
+25-10-2023,10:40,IN,bus,100%,Cloudy
+25-10-2023,10:40,IN,bicycle,1,Cloudy
+25-10-2023,10:40,IN,taxi,1,Cloudy
+25-10-2023,10:40,OUT,car,2,Cloudy
+25-10-2023,10:40,OUT,car,2,Cloudy
+25-10-2023,10:40,OUT,car,1,Cloudy
+25-10-2023,10:40,OUT,car,2,Cloudy
+25-10-2023,10:40,OUT,car,1,Cloudy
+25-10-2023,10:40,OUT,car,2,Cloudy
+25-10-2023,10:40,OUT,taxi,1,Cloudy
+25-10-2023,10:40,OUT,taxi,4,Cloudy
+25-10-2023,10:40,OUT,car,1,Cloudy
+25-10-2023,10:40,OUT,car,2,Cloudy
+25-10-2023,10:40,OUT,car,1,Cloudy
+25-10-2023,10:40,OUT,car,2,Cloudy
+25-10-2023,10:40,OUT,bus,2%,Cloudy
+25-10-2023,10:40,IN,van,1,Cloudy
+25-10-2023,10:40,IN,car,2,Cloudy
+25-10-2023,10:40,IN,car,1,Cloudy
+25-10-2023,10:40,IN,van,1,Cloudy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,Bus,5%,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,OUT,Van,1,Cloudy and windy
+25-10-2023,10:45,IN,Bus,100%,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,4,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,OUT,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,3,Cloudy and windy
+25-10-2023,10:45,IN,Bus,90%,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,OUT,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,OUT,Bus,5%,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,OUT,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,Van,1,Cloudy and windy
+25-10-2023,10:45,OUT,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,OUT,car,1,Cloudy and windy
+25-10-2023,10:45,OUT,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:45,OUT,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,3,Cloudy and windy
+25-10-2023,10:45,IN,car,2,Cloudy and windy
+25-10-2023,10:45,OUT,car,2,Cloudy and windy
+25-10-2023,10:45,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,2,Cloudy and windy
+25-10-2023,10:50,OUT,car,2,Cloudy and windy
+25-10-2023,10:50,IN,Bus,1%,Cloudy and windy
+25-10-2023,10:50,IN,taxi,2,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,2,Cloudy and windy
+25-10-2023,10:50,IN,taxi,4,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,taxi,1,Cloudy and windy
+25-10-2023,10:50,OUT,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,2,Cloudy and windy
+25-10-2023,10:50,IN,Bus,100%,Cloudy and windy
+25-10-2023,10:50,OUT,car,2,Cloudy and windy
+25-10-2023,10:50,IN,car,2,Cloudy and windy
+25-10-2023,10:50,IN,car,4,Cloudy and windy
+25-10-2023,10:50,IN,Van,1,Cloudy and windy
+25-10-2023,10:50,IN,car,2,Cloudy and windy
+25-10-2023,10:50,IN,taxi,3,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,OUT,car,2,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,lorry,2,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,2,Cloudy and windy
+25-10-2023,10:50,IN,taxi,2,Cloudy and windy
+25-10-2023,10:50,OUT,car,1,Cloudy and windy
+25-10-2023,10:50,IN,car,1,Cloudy and windy
+25-10-2023,10:55,OUT,taxi,2,Cloudy and windy
+25-10-2023,10:55,IN,car,1,Cloudy and windy
+25-10-2023,10:55,IN,car,2,Cloudy and windy
+25-10-2023,10:55,IN,car,1,Cloudy and windy
+25-10-2023,10:55,IN,car,1,Cloudy and windy
+25-10-2023,10:55,OUT,van,1,Cloudy and windy
+25-10-2023,10:55,IN,van,1,Cloudy and windy
+25-10-2023,10:55,OUT,car,1,Cloudy and windy
+25-10-2023,10:55,IN,van,1,Cloudy and windy
+25-10-2023,10:55,IN,car,2,Cloudy and windy
+25-10-2023,10:55,IN,bus,100%,Cloudy and windy
+25-10-2023,10:55,OUT,bus,20%,Cloudy and windy
+25-10-2023,10:55,IN,car,2,Cloudy and windy
+25-10-2023,10:55,IN,car,1,Cloudy and windy
+25-10-2023,10:55,OUT,bus,20%,Cloudy and windy
+25-10-2023,10:55,IN,car,3,Cloudy and windy
+25-10-2023,10:55,OUT,taxi,1,Cloudy and windy
+25-10-2023,10:55,IN,car,2,Cloudy and windy
+25-10-2023,10:55,IN,car,2,Cloudy and windy
+25-10-2023,10:55,IN,car,2,Cloudy and windy
+25-10-2023,10:55,OUT,taxi,1,Cloudy and windy
+25-10-2023,10:55,OUT,taxi,1,Cloudy and windy
+25-10-2023,10:55,IN,car,1,Cloudy and windy
+25-10-2023,10:55,OUT,car,1,Cloudy and windy
+25-10-2023,10:55,IN,car,1,Cloudy and windy
+25-10-2023,10:55,OUT,van,1,Cloudy and windy
+25-10-2023,10:55,OUT,car,1,Cloudy and windy
+,10:55,IN,car,2,Cloudy and windy
+,10:55,IN,car,3,Cloudy and windy
+,10:55,OUT,van,1,Cloudy and windy
+,10:55,IN,car,2,Cloudy and windy
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

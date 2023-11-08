@@ -1,0 +1,73 @@
+Date,Time,Direction,Type,Occupancy,Gender,Public Transport,Car Company/Bus No
+26-10-2022,9:20am,in,bicycle ,1,Male,No,Nil
+26-10-2022,9:20am,in,bus,80%,Male,Yes,U1
+26-10-2022,9:20am,in,car,1,Male,No,BMW
+26-10-2022,9:20am,in,car,1,Female,No,Peugeot
+26-10-2022,9:25am,in,car,1,Male,No,Vauxhall
+26-10-2022,9:25am,in,car,1,Female,No,Fiat
+26-10-2022,9:25am,in,van,1,Male,No,Mercedes
+26-10-2022,9:25am,in,bus,75%,Female,Yes,U2
+26-10-2022,9:25am,in,car,2,Male,No,Ford
+26-10-2022,9:30am,in,car,1,Male,No,Toyota
+26-10-2022,9:30am,in,van,1,Male,No,Volkswagen
+26-10-2022,9:30am,in,car,5,Male,No,Peugeot
+26-10-2022,9:30am,in,car,1,Male,No,Mercedes
+26-10-2022,9:30am,in,car,1,Male,No,Ibiza
+26-10-2022,9:30am,in,car,2,Male,No,Ford
+26-10-2022,9:30am,in,car,1,Male,No,Hyundai
+26-10-2022,9:30am,in,car,1,Male,No,Peugeot
+26-10-2022,9:30am,in,bicycle ,1,Male,No,Nil
+26-10-2022,9:30am,in,bus,50%,Male,Yes,U1
+26-10-2022,9:30am,in,car,1,Male,No,BMW
+26-10-2022,9:30am,in,bus,20%,Male,Yes,U2
+26-10-2022,9:30am,in,car,1,Female,No,Hyundai
+26-10-2022,9:30am,in,car,2,Female,No,Mini Cooper
+26-10-2022,9:30am,in,car,2,Female,No,Fiat
+26-10-2022,9:30am,in,car,2,Female,No,Fiat
+26-10-2022,9:35am,in,bus,85%,Male,Yes,U1`
+26-10-2022,9:35am,in,car,1,Male,No,Volkswagen
+26-10-2022,9:35am,in,car,5,Male,No,Kia
+26-10-2022,9:35am,in,truck,2,Male,No,Nil
+26-10-2022,9:35am,in,van,1,Male,No,Ford
+26-10-2022,9:35am,in,van,1,Male,No,Peugeot
+26-10-2022,9:35am,in,car,2,Female,No,Fiat
+26-10-2022,9:35am,in,bicycle ,1,Female,No,Nil
+26-10-2022,9:35am,in,truck,1,Male,No,Nil
+26-10-2022,9:35am,in,car,2,Female,No,Fiat
+26-10-2022,9:35am,in,bus,70%,Male,Yes,U2
+26-10-2022,9:40am,in,bicycle ,1,Male,No,Nil
+26-10-2022,9:40am,in,car,3,Female,No,Mercedes
+26-10-2022,9:40am,in,car,2,Male,No,Ibiza
+26-10-2022,9:40am,in,bus,90%,Female,Yes,U1
+26-10-2022,9:40am,in,bus,30%,Male,Yes,U2
+26-10-2022,9:40am,in,car,1,Male,No,Audi
+26-10-2022,9:40am,in,car,1,Female,No,Hyundai
+26-10-2022,9:40am,in,car,2,Female,No,Fiat
+26-10-2022,9:40am,in,car,2,Male,No,Peugeot
+26-10-2022,9:45am,in,car,3,Male,No,Vauxhall
+26-10-2022,9:45am,in,car,3,Female,No,Fiat
+26-10-2022,9:45am,in,bus,30%,Male,Yes,U1
+26-10-2022,9:45am,in,bus,75%,Male,Yes,U2
+26-10-2022,9:45am,in,car,1,Male,No,Corsa
+26-10-2022,9:45am,in,car,2,Male,Yes,Nissan
+26-10-2022,9:45am,in,car,2,Female,No,Kia
+26-10-2022,9:45am,in,car,2,Male,No,Volkswagen
+26-10-2022,9:45am,in,car,4,Male,No,Mercedes
+26-10-2022,9:45am,in,car,3,Female,No,Peugeot
+26-10-2022,9:50am,in,car,1,Male,No,Tesla
+26-10-2022,9:50am,in,car,3,Male,No,Ford
+26-10-2022,9:50am,in,car,2,Female,No,Vauxhall
+26-10-2022,9:50am,in,car,2,Male,No,Vauxhall
+26-10-2022,9:50am,in,car,2,Female,No,Fiat
+26-10-2022,9:50am,in,car,1,Male,No,Peugeot
+26-10-2022,9:50am,in,bus,80%,Male,Yes,U1
+26-10-2022,9:50am,in,car,2,Male,No,Ibiza
+26-10-2022,9:50am,in,car,1,Female,No,Fiat
+26-10-2022,9:50am,in,car,2,Female,No,Volkswagen
+26-10-2022,9:50am,in,bicycle ,1,Male,No,Nil
+26-10-2022,9:50am,in,car,2,Male,No,BMW
+26-10-2022,9:50am,in,car,1,Male,No,Peugeot
+26-10-2022,9:50am,in,bus,60%,Male,Yes,U2
+26-10-2022,9:50am,in,car,4,Male,No,Volkswagen
+26-10-2022,9:50am,in,car,2,Female,No,Nissan
+26-10-2022,9:50am,in,car,1,Male,No,Peugeot

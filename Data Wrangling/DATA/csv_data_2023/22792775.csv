@@ -1,0 +1,54 @@
+Date,Time,Type,Occupancy,Direction,Tint > 50%?,High Tinted Area
+24-10-2023,9:30am,Car,4,out,N,null
+24-10-2023,9:31am,Bus,5%,out,N,null
+24-10-2023,9:31am,Taxi,1,out,Y,Rear All
+24-10-2023,9:32am,Car,1,out,Y,Rear All
+24-10-2023,9:32am,Car,1,out,N,null
+24-10-2023,9:34am,Truck,,out,N,null
+24-10-2023,9:34am,Car,1,out,Y,Rear All
+24-10-2023,9:34am,Truck,,out,N,null
+24-10-2023,9:35am,Bus,5%,out,N,null
+24-10-2023,9:37am,Car,4,out,N,null
+24-10-2023,9:37am,Bus,1%,out,N,null
+24-10-2023,9:38am,Car,1,out,N,null
+24-10-2023,9:39am,Van,,out,N,null
+24-10-2023,9:39am,Taxi,1,out,Y,Rear All
+24-10-2023,9:39am,Van,,out,N,null
+24-10-2023,9:39am,Bus,5%,out,N,null
+24-10-2023,9:40am,Car,3,out,N,null
+24-10-2023,9:40am,Bus,1%,out,N,null
+24-10-2023,9:40am,Car,1,out,Y,Rear All
+24-10-2023,9:41am,Bus,1%,out,Y,Rear Windscreen
+24-10-2023,9:41am,Van,,out,N,null
+24-10-2023,9:42am,Car,1,out,Y,Rear All
+24-10-2023,9:42am,Car,1,out,Y,Rear All
+24-10-2023,9:43am,Bike,1,out,null,null
+24-10-2023,9:43am,Car,1,out,Y,Rear All
+24-10-2023,9:46am,Car,1,out,N,null
+24-10-2023,9:46am,Taxi,1,out,Y,Rear All
+24-10-2023,9:48am,Car,1,out,Y,Rear All
+24-10-2023,9:48am,Authorised Vehicle,,out,N,null
+24-10-2023,9:48am,Car,1,out,N,null
+24-10-2023,9:49am,Car,1,out,Y,Rear All
+24-10-2023,9:49am,Bus,3%,out,N,null
+24-10-2023,9:49am,Authorised Vehicle,,out,Y,Rear All
+24-10-2023,9:50am,Bus,5%,out,N,null
+24-10-2023,9:50am,Car,1,out,N,null
+24-10-2023,9:50am,Car,1,out,Y,Rear All
+24-10-2023,9:50am,Car,1,out,Y,Rear All
+24-10-2023,9:51am,Car,3,out,Y,Rear All
+24-10-2023,9:52am,Bus,1%,out,N,null
+24-10-2023,9:52am,Bus,5%,out,N,null
+24-10-2023,9:52am,Car,1,out,Y,Rear All
+24-10-2023,9:52am,Car,2,out,N,null
+24-10-2023,9:53am,Authorised Vehicle,,out,N,null
+24-10-2023,9:54am,Car,1,out,Y,Rear All
+24-10-2023,9:54am,Car,1,out,Y,Rear All
+24-10-2023,9:56am,Truck,,out,N,null
+24-10-2023,9:57am,Car,3,out,Y,Rear Windscreen
+24-10-2023,9:58am,Authorised Vehicle,,out,N,null
+24-10-2023,9:59am,Car,1,out,Y,Rear All
+24-10-2023,9:59am,Car,2,out,Y,Rear All
+24-10-2023,9:59am,Van,,out,Y,Rear All
+24-10-2023,10:00am,Taxi,1,out,N,null
+24-10-2023,10:00am,Car,1,out,Y,Rear All

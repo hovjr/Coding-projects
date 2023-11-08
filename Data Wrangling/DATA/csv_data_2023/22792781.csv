@@ -1,0 +1,134 @@
+Date,Time,Direction,Type,Occupancy,Tint > 50% ,Tint Area
+24/10/2023,9:30am,IN,Car,1,No,N/A
+24/10/2023,9:30am,IN,Bus,75%,N/A,N/A
+24/10/2023,9:30am,IN,Car,2,Yes,Rear All
+24/10/2023,9:30am,IN,Car,2,No,N/A
+24/10/2023,9:30am,IN,Car,4,Yes,Rear All
+24/10/2023,9:31am,IN,Car,2,Yes,Rear Windscreen
+24/10/2023,9:31am,IN,Bus,100%,No,N/A
+24/10/2023,9:31am,IN,Car,4,Yes,Rear Windscreen
+24/10/2023,9:34am,IN,Bus,100%,N/A,N/A
+24/10/2023,9:34am,IN,Car,2,No,N/A
+24/10/2023,9:34am,IN,Car,2,Yes,Rear All
+24/10/2023,9:34am,IN,Bus,2,Yes,Rear All
+24/10/2023,9:34am,IN,Bus,100%,N/A,N/A
+24/10/2023,9:34am,IN,Car,1,No,N/A
+24/10/2023,9:35am,IN,Car,2,Yes,Rear Windscreen
+24/10/2023,9:35am,IN,Car,2,Yes,Rear All
+24/10/2023,9:35am,IN,Car,1,Yes,Rear Windscreen
+24/10/2023,9:36am,IN,Bus,50%,N/A,N/A
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:36am,IN,Car,1,Yes,Rear All
+24/10/2023,9:36am,IN,Car,1,Yes,Rear All
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:36am,IN,Car,2,Yes,Rear All
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:36am,IN,Car,1,No,N/A
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:36am,IN,Car,2,No,N/A
+24/10/2023,9:37am,IN,Car,1,Yes,Rear All
+24/10/2023,9:37am,IN,Car,1,Yes,Rear All
+24/10/2023,9:37am,IN,Car,2,Yes,Rear All & Front Quarter & Front Door
+24/10/2023,9:37am,IN,Car,2,Yes,Rear All
+24/10/2023,9:37am,IN,Car,2,Yes,Rear All & Front Door
+24/10/2023,9:37am,IN,Car,2,No,N/A
+24/10/2023,9:37am,IN,Car,1,Yes,Rear All
+24/10/2023,9:37am,IN,Car,1,No,N/A
+24/10/2023,9:37am,IN,Car,1,Yes,Rear All
+24/10/2023,9:38am,IN,Car,2,Yes,Rear All
+24/10/2023,9:38am,IN,Car,2,No,N/A
+24/10/2023,9:38am,IN,Car,2,No,N/A
+24/10/2023,9:38am,IN,Car,1,No,N/A
+24/10/2023,9:39am,IN,Car,1,No,N/A
+24/10/2023,9:39am,IN,Taxi,1,Yes,Rear All
+24/10/2023,9:39am,IN,Taxi,2,No,N/A
+24/10/2023,9:39am,IN,Car,2,No,N/A
+24/10/2023,9:39am,IN,Car,2,Yes,Rear All
+24/10/2023,9:39am,IN,Car,2,Yes,Rear All
+24/10/2023,9:39am,IN,Bike,1,N/A,N/A
+24/10/2023,9:40am,IN,Car,1,No,N/A
+24/10/2023,9:40am,IN,Car,1,No,N/A
+24/10/2023,9:40am,IN,Car,1,No,N/A
+24/10/2023,9:40am,IN,Car,2,Yes,Rear All
+24/10/2023,9:41am,IN,Car,2,No,N/A
+24/10/2023,9:41am,IN,Taxi,2,Yes,Rear All
+24/10/2023,9:41am,IN,Bike,1,N/A,N/A
+24/10/2023,9:41am,IN,Bike,1,N/A,N/A
+24/10/2023,9:41am,IN,Car,4,No,N/A
+24/10/2023,9:41am,IN,Car,2,No,N/A
+24/10/2023,9:41am,IN,Car,2,No,N/A
+24/10/2023,9:41am,IN,Bus,100%,N/A,N/A
+24/10/2023,9:41am,IN,Taxi,2,No,N/A
+24/10/2023,9:42am,IN,Car,1,No,N/A
+24/10/2023,9:42am,IN,Car,2,No,N/A
+24/10/2023,9:42am,IN,Car,2,No,N/A
+24/10/2023,9:42am,IN,Car,1,No,N/A
+24/10/2023,9:42am,IN,Car,2,No,N/A
+24/10/2023,9:42am,IN,Car,1,Yes,Rear All & Front Quarter & Front Door
+24/10/2023,9:42am,IN,Car,2,No,N/A
+24/10/2023,9:43am,IN,Car,2,No,N/A
+24/10/2023,9:43am,IN,Bike,1,N/A,N/A
+24/10/2023,9:43am,IN,Car,3,Yes,Rear All
+24/10/2023,9:43am,IN,Car,1,No,N/A
+24/10/2023,9:44am,IN,Car,2,No,N/A
+24/10/2023,9:44am,IN,Bike,1,N/A,N/A
+24/10/2023,9:44am,IN,Bike,1,N/A,N/A
+24/10/2023,9:45am,IN,Car,4,No,N/A
+24/10/2023,9:45am,IN,Taxi,2,No,N/A
+24/10/2023,9:45am,IN,Car,2,Yes,Rear Quarter & Rear Windscreen
+24/10/2023,9:45am,IN,Car,2,Yes,Rear All & Front Door 
+24/10/2023,9:45am,IN,Car,2,Yes,Rear Quarter & Rear Windscreen
+24/10/2023,9:45am,IN,Car,2,Yes,Rear All 
+24/10/2023,9:45am,IN,Car,1,Yes,Rear Windscreen
+24/10/2023,9:45am,IN,Car,1,Yes,Rear All
+24/10/2023,9:45am,IN,Car,4,No,N/A
+24/10/2023,9:45am,IN,Car,2,Yes,Rear All
+24/10/2023,9:45am,IN,Car,2,Yes,Rear All
+24/10/2023,9:46am,IN,Car,4,No,N/A
+24/10/2023,9:46am,IN,Bus,100%,N/A,N/A
+24/10/2023,9:46am,IN,Car,1,No,N/A
+24/10/2023,9:46am,IN,Car,1,No,N/A
+24/10/2023,9:46am,IN,Car,1,No,N/A
+24/10/2023,9:46am,IN,Bike,2,N/A,N/A
+24/10/2023,9:46am,IN,Car,2,No,N/A
+24/10/2023,9:46am,IN,Car,2,Yes,Rear All
+24/10/2023,9:47am,IN,Car,1,Yes,Rear All
+24/10/2023,9:47am,IN,Car,2,No,N/A
+24/10/2023,9:47am,IN,Car,2,No,N/A
+24/10/2023,9:47am,IN,Car,1,No,N/A
+24/10/2023,9:47am,IN,Car,1,No,N/A
+24/10/2023,9:47am,IN,Car,1,No,N/A
+24/10/2023,9:47am,IN,Car,1,No,N/A
+24/10/2023,9:47am,IN,Car,1,No,N/A
+24/10/2023,9:47am,IN,Bike,1,N/A,N/A
+24/10/2023,9:47am,IN,Car,2,Yes,Rear Windscreen
+24/10/2023,9:47am,IN,Bike,1,N/A,N/A
+24/10/2023,9:48am,IN,Car,3,No,N/A
+24/10/2023,9:48am,IN,Bus,100%,N/A,N/A
+24/10/2023,9:48am,IN,A.V,1,No,N/A
+24/10/2023,9:48am,IN,Car,1,No,N/A
+24/10/2023,9:48am,IN,Car,2,No,N/A
+24/10/2023,9:48am,IN,Bus,100%,N/A,N/A
+24/10/2023,9:50am,IN,Car,2,No,N/A
+24/10/2023,9:50am,IN,Van,2,Yes,Front Door Quarter & Front Glass
+24/10/2023,9:52am,IN,Car,2,Yes,Rear All & Front Glass & Front Quarter
+24/10/2023,9:52am,IN,Car,2,No,N/A
+24/10/2023,9:53am,IN,Car,2,Yes,Rear All
+24/10/2023,9:53am,IN,Car,2,No,N/A
+24/10/2023,9:53am,IN,Car,1,Yes,Rear All
+24/10/2023,9:53am,IN,Car,2,Yes,Rear All
+24/10/2023,9:54am,IN,Car,3,No,N/A
+24/10/2023,9:54am,IN,Bus ,100%,N/A,N/A
+24/10/2023,9:54am,IN,Car,1,Yes,Rear All
+24/10/2023,9:55am,IN,A.V,1,No,N/A
+24/10/2023,9:55am,IN,Car,1,Yes,Rear All
+24/10/2023,9:55am,IN,Car,1,No,N/A
+24/10/2023,9:56am,IN,Car,1,No,N/A
+24/10/2023,9:57am,IN,Car,1,No,N/A
+24/10/2023,9:57am,IN,Car,3,Yes,Rear All
+24/10/2023,9:57am,IN,Bike,1,N/A,N/A
+24/10/2023,9:59am,IN,Car,4,No,N/A
+24/10/2023,9:59am,IN,Bike,1,N/A,N/A
+24/10/2023,10:00am,IN,Truck,1,No,N/A

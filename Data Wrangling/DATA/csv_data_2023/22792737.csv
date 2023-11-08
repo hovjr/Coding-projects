@@ -1,0 +1,104 @@
+Date ,Time,Direction,Type,Occupancy,Brand,Age group
+25-10-2023,10:15am,in,car,1,volkswagen,30 - 34
+25-10-2023,10:15am,in,car,2,renault,under 30
+25-10-2023,10:15am,in,bus,120%, ,30 - 34
+25-10-2023,10:15am,in,car,2,audi,30 - 34
+25-10-2023,10:15am,in,bus,80%, ,above 45
+25-10-2023,10:15am,in,car,2,audi,30 - 34
+25-10-2023,10:15am,in,car,3,renault,30 - 34
+25-10-2023,10:15am,in,van,2,mercedes,30 - 34
+25-10-2023,10:20am,in,car,2,nissan,30 - 34
+25-10-2023,10:20am,in,bus,85%, ,30 - 34
+25-10-2023,10:20am,in,bus,100%, ,30 - 34
+25-10-2023,10:20am,in,car,1,suzuki,under 30
+25-10-2023,10:20am,in,car,1,mazda,above 45
+25-10-2023,10:20am,in,car,2,ford,under 30
+25-10-2023,10:20am,in,car,1,pegout,above 45
+25-10-2023,10:20am,in,car,1,bmw,30 - 34
+25-10-2023,10:20am,in,car,2,renault,above 45
+25-10-2023,10:20am,in,bus,60%, ,above 45
+25-10-2023,10:20am,in,motorbike,2,royal enfield,under 30
+25-10-2023,10:20am,in,car,1,mercedes,30 - 34
+25-10-2023,10:20am,in,car,1,vauxhaul,under 30
+25-10-2023,10:20am,in,car,1,mercedes,30 - 34
+25-10-2023,10:20am,in,bus,5%, ,30 - 34
+25-10-2023,10:20am,in,car,1,volkswagen,under 30
+25-10-2023,10:20am,in,bicycle,1,,under 30
+25-10-2023,10:20am,in,car,4,ford,30 - 34
+25-10-2023,10:20am,in,van,1,ford,30 - 34
+25-10-2023,10:20am,in,bus,20%, ,30 - 34
+25-10-2023,10:20am,in,bus,30%,20,under 30
+25-10-2023,10:25am,in,car,1,mercedes,under 30
+25-10-2023,10:25am,in,car,1,bmw,30 - 34
+25-10-2023,10:25am,in,car,1,audi,above 45
+25-10-2023,10:25am,in,bicycle,1,,under 30
+25-10-2023,10:25am,in,car,1,mini cooper,under 30
+25-10-2023,10:25am,in,car,1,audi,30 - 34
+25-10-2023,10:25am,in,car,2,renault,under 30
+25-10-2023,10:25am,in,car,3,volkswagen,30 - 34
+25-10-2023,10:25am,in,van,4,citreon,30 - 34
+25-10-2023,10:25am,in,car,2,nissan,under 30
+25-10-2023,10:25am,in,motorbike,1,yamaha,under 30
+25-10-2023,10:25am,in,bus,30%, ,30 - 34
+25-10-2023,10:25am,in,car,1,suzuki,30 - 34
+25-10-2023,10:25am,in,car,2,hundai,under 30
+25-10-2023,10:25am,in,car,2,mercedes,under 30
+25-10-2023,10:25am,in,car,1,mini cooper,above 45
+25-10-2023,10:30am,in,car,1,audi,above 45
+25-10-2023,10:30am,in,car,1,bmw,under 30
+25-10-2023,10:30am,in,car,1,ford,under 30
+25-10-2023,10:30am,in,car,2,volkswagen,under 30
+25-10-2023,10:30am,in,car,2,audi,30 - 34
+25-10-2023,10:30am,in,van,1,ford,30 - 34
+25-10-2023,10:30am,in,van,2,ford,30 - 34
+25-10-2023,10:30am,in,car,1,vauxhaul,under 30
+25-10-2023,10:30am,in,bus,15%, ,under 30
+25-10-2023,10:30am,in,car,1,ford,30 - 34
+25-10-2023,10:30am,in,car,1,bwm,30 - 34
+25-10-2023,10:30am,in,car,1,renault,30 - 34
+25-10-2023,10:30am,in,bicycle,1,,under 30
+25-10-2023,10:30am,in,car,1,fiat,30 - 34
+25-10-2023,10:30am,in,car,1,toyota,30 - 34
+25-10-2023,10:30am,in,car,1,mercedes,30 - 34
+25-10-2023,10:30am,in,car,2,volvo,under 30
+25-10-2023,10:30am,in,car,1,toyota,under 30
+25-10-2023,10:30am,in,car,1,ford,under 30
+25-10-2023,10:35am,in,car,1,ford,above 45
+25-10-2023,10:35am,in,car,1,pegout,under 30
+25-10-2023,10:35am,in,van,1,ford,under 30
+25-10-2023,10:35am,in,car,1,fiat,30 - 34
+25-10-2023,10:35am,in,bike,1,,under 30
+25-10-2023,10:35am,in,car,2,ford,under 30
+25-10-2023,10:35am,in,bus,30%, ,30 - 34
+25-10-2023,10:35am,in,car,2,mini cooper,under 30
+25-10-2023,10:35am,in,car,1,toyota,30 - 34
+25-10-2023,10:35am,in,bus,50%, ,30 - 34
+25-10-2023,10:35am,in,car,1,kia,30 - 34
+25-10-2023,10:35am,in,car,1,ford,30 - 34
+25-10-2023,10:35am,in,car,1,ford,under 30
+25-10-2023,10:35am,in,bus,60%,,30 - 34
+25-10-2023,10:35am,in,car,1,pegout,under 30
+25-10-2023,10:40am,in,car,1,volkswagen,30 - 34
+25-10-2023,10:40am,in,car,1,ford,above 45
+25-10-2023,10:40am,in,car,1,mercedes,30 - 34
+25-10-2023,10:40am,in,car,2,ford,under 30
+25-10-2023,10:40am,in,van,1,citreon,above 45
+25-10-2023,10:40am,in,car,1,pegout,under 30
+25-10-2023,10:40am,in,car,1,hundai,under 30
+25-10-2023,10:40am,in,bus,12%, ,30 - 34
+25-10-2023,10:40am,in,van,1,ford,30 - 34
+25-10-2023,10:40am,in,car,1,hundai,under 30
+25-10-2023,10:40am,in,van,2,toyota,30 - 34
+25-10-2023,10:40am,in,van,2,ford,under 30
+25-10-2023,10:40am,in,car,2,mitsubishi,30 - 34
+25-10-2023,10:40am, ,car,1,hundai,30 - 34
+25-10-2023,10:40am,in,car,1,pegout,30 - 34
+25-10-2023,10:40am,in,car,2,suzuki,under 30
+25-10-2023,10:40am,in,car,1,volkswagen,under 30
+25-10-2023,10:40am,in,car,1,renault,under 30
+25-10-2023,10:40am,in,car,1,ford,under 30
+25-10-2023,10:40am,in,car,2,pegout,under 30
+25-10-2023,10:45am,in,car,2,vauxhaul,under 30
+25-10-2023,10:45am,in,car,1,volkswagen,under 30
+25-10-2023,10:45am,in,car,2,ford,under 30
+25-10-2023,10:45am,in,car,1,mini cooper,under 30
