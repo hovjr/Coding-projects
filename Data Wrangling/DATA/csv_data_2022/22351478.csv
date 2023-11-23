@@ -31,7 +31,6 @@ Date, Time, Direction, Type, Occupancy, Driver_Age, Electric_Vehicle
 25-10-2022, 10.05am, in, bus, 80%, middle-aged, True
 25-10-2022, 10.05am, in, bus, 60%, old, True
 25-10-2022, 10.10am, in, car, 2, young, False
-25-10-2022, 10.10am, in, bicycle, 1, young, True
 25-10-2022, 10.10am, in, car, 1, young, False
 25-10-2022, 10.10am, in, car, 1, middle-aged, False
 25-10-2022, 10.10am, in, car, 1, young, False
@@ -80,7 +79,6 @@ Date, Time, Direction, Type, Occupancy, Driver_Age, Electric_Vehicle
 25-10-2022, 10.25am, in, taxi, 1, middle-aged, True
 25-10-2022, 10.25am, in, bicycle, 1, young, False
 25-10-2022, 10.25am, in, bus, 100%, middle-aged, True
-25-10-2022, 10.25am, in, bicycle, 1, young, True
 25-10-2022, 10.25am, in, car, 1, young, False
 25-10-2022, 10.25am, in, motorbike, 1, middle-aged, False
 25-10-2022, 10.25am, in, car, 2, young, False

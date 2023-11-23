@@ -18,7 +18,6 @@ Date,Time ,Direction of travel,Category of vehicle,Occupancy of the Vehicle,Vehi
 27-10-2022,10:57,In,Taxi,1,Black,No
 27-10-2022,10:57,In,Bicycle,2,White,No
 27-10-2022,10:57,In,Taxi,2,White,No
-27-10-2022,10:57,In,Bicycle,2,Red,Yes
 27-10-2022,10:57,In,Van,2,Grey,No
 27-10-2022,10:57,In,Car,2,White,Yes
 27-10-2022,10:57,In,Car,2,White,No

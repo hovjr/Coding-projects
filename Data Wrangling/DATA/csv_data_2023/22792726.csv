@@ -1,4 +1,4 @@
-﻿Date,Time,Direction,Type,Occupancy,Eco-Friendly,Date of Car,
+Date,Time,Direction,Type,Occupancy,Eco-Friendly,Date of Car,
 27/10/2023,08:30am,out,Car,1,,2013/2014,
 27/10/2023,08:30am,out,Car,1,Yes,2019/2020,
 27/10/2023,08:30am,out,Car,2,,2008/2009,
@@ -64,6 +64,7 @@
 27/10/2023,08:50am,out,Car,1,,2018/2019,
 27/10/2023,08:50am,out,Car,1,Yes,null,
 27/10/2023,08:50am,out,Car,1,Yes,2022/2023,
+27/10/2023,08:55am,out,Taxi,1,Yes,2017/2018,
 27/10/2023,08:50am,out,Bus,10%,Yes,2016/2017,
 27/10/2023,08:50am,out,Car,1,,2013/2014,
 27/10/2023,08:55am,out,Car,1,,2012/2013,

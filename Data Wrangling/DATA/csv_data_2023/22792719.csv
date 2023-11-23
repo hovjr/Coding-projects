@@ -1,4 +1,4 @@
-﻿Date,Time,Direction,Type,Occupancy,EV,Car Brand
+Date,Time,Direction,Type,Occupancy,EV,Car Brand
 24-10-2023,9.40am,out,bus,5%,,
 24-10-2023,9.40am,out,car,1,non ev,Lexus
 24-10-2023,9.40am,out,car,1,non ev,Volkswagen
@@ -31,9 +31,13 @@
 24-10-2023,9.55am,out,car,1,non ev,Volkswagen
 24-10-2023,9.55am,out,van,1,,
 24-10-2023,9.55am,out,car,2,ev,BMW
+24-10-2023,9.55am,out,bicycle,2,ev,
+24-10-2023,9.55am,out,bicycle,2,ev,
+24-10-2023,9.55am,out,car,2,ev,BMW
 24-10-2023,10.00am,out,car,2,non ev,Ford
 24-10-2023,10.00am,out,car,1,non ev,Volkswagen
 24-10-2023,10.00am,out,car,2,non ev,Jeep
+24-10-2023,10.00am,out,bicycle,2,ev,
 24-10-2023,10.00am,out,car,2,non ev,Nissan
 24-10-2023,10.00am,out,car,1,non ev,Seat
 24-10-2023,10.00am,out,car,1,non ev,Honda
